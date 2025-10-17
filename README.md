@@ -27,4 +27,4 @@ To run this project locally:
 
 1. Clone the repository:
 ```bash
-git clone <(https://github.com/aminul351/module_six_intern)>
+git clone (https://github.com/aminul351/module_six_intern)
