@@ -3,7 +3,10 @@
 ## Overview
 The **Random User Generator** is a simple, dynamic web application that fetches random user data from a public API and displays it in a clean, user-friendly interface. This project demonstrates the use of **HTML, CSS, and JavaScript**, along with API integration and responsive design principles.
 
+**Live Demo**: [Here is the live link!](https://random-user-making.netlify.app/)
+
 ---
+
 
 ## Features
 - Fetch a new random user with a single click.
